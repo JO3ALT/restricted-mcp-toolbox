@@ -50,3 +50,7 @@ pip install -r Lean/requirements.txt
 実行時状態、生成物、ローカルデータセット、Python キャッシュ、マシン固有のラッパーはコミットしない方針です。
 
 Codex に守らせたい運用ルールは `AGENTS.md` を参照してください。
+
+## ライセンス
+
+MIT License です。詳しくは [LICENSE](LICENSE) を参照してください。

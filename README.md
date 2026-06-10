@@ -56,3 +56,7 @@ version control. Runtime state, generated outputs, local datasets, Python cache
 files, and machine-specific wrappers should stay out of commits.
 
 See `AGENTS.md` for the operating rules intended for Codex.
+
+## License
+
+MIT License. See [LICENSE](LICENSE).
