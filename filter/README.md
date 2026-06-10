@@ -1,5 +1,7 @@
 # Restricted UNIX Filter MCP Server
 
+[日本語版](README.ja.md)
+
 任意の `bash` を実行しない、制限付きのUNIXフィルタMCPです。
 `awk`, `sed`, `sort`, `uniq`, `cut`, `tr`, `grep`, `head`, `tail`, `wc`, `cat` などを許可リスト方式でパイプライン実行します。
 

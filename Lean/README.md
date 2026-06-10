@@ -1,5 +1,7 @@
 # Lean MCP Server
 
+[日本語版](README.ja.md)
+
 Lean 4 で命題・証明片をチェックするための MCP サーバーです。
 
 ## 方針

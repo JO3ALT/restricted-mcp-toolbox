@@ -1,5 +1,7 @@
 # Restricted MCP Servers
 
+[日本語版](README.ja.md)
+
 Purpose-built MCP servers for Codex and other MCP clients. The repository is
 organized around narrow tools rather than exposing a general shell.
 

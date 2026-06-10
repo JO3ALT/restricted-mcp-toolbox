@@ -1,5 +1,7 @@
 # Restricted KDB-X/q MCP Server
 
+[日本語版](README.ja.md)
+
 KDB-X/q の小さな式・定義を実行する制限付き MCP サーバーです。
 
 ## 方針

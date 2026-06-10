@@ -1,5 +1,7 @@
 # SWI-Prolog MCP Server
 
+[日本語版](README.ja.md)
+
 任意の shell 実行を避けつつ、SWI-Prolog の問い合わせを実行する MCP サーバーです。
 
 ## 方針
